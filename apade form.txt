@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>APADE FORM</title>
+ </head>
+ <body>
+<style>
+body{
+background-color:rgba(0, 0, 255, 0.603);
+color:white;
+}</style>
+ <img src="ooo.jpg"length="90px"width="90">                              <up><b>Association des Parent Adventistes pour le Developpement de l'Educatio</up> 
+<center>
+<h2>(APADE)</h2>
+<h1>LYCEE DE KICUKIRO</h1>
+</center>
+<hr>
+ <marquee><b>B.P1719        RWANDA-KIGALI        Email:lyceeapade@gmeil.com          Mob. Tel. 0788506669/0722900397 </marquee> 
+  <h1><u>REGISTRATION FORM 2024/2025</u></h1>    
+  <h2><u>I.CANDIDATE IDENTIFICATION</u></h2>
+  
+  <label>Names</label>
+  <input type="text"> 
+  <p>
+   <label><br>Sex: M: <input type="checkbox"> 
+    <br>                                                                        
+             sex: F: <input type="checkbox">
+   </br>
+
+  <label>Birth date</label>
+  <input type="text">
+  </br>
+  <p>
+  <labe>Father names</labe>
+  <input type="text">
+  </p>
+  <p>
+  <label>MOTHER NAMES</label>
+  <input type="text">
+  </p>
+    <input type="checkbox">yes</input><input type="checkbox">no</input><br><br>
+   <label>Father ID number</label>
+   <input type="text">
+   <label>Father phone number</label>
+   <input type="text">
+   <label>Mother phone number</label>
+   <input type="text">
+    ALIVE<input type="checkbox">yes</input><input type="checkbox">no</input><br>
+    <div>
+      <p>
+   <label>Mother ID number</label>
+   <input type="text">
+   </p>
+   </div>
+   <p>
+   <div>  
+   <label>Medical insurence</label>
+   <input type="text">
+   </div>
+   </p>
+   <label>Serial No O'level Certificate</label>
+   <input type="text">
+<h2><u>II.ADRESS OF PARENTS OR RESPONSABLE</u></h2>
+<p>
+<label>PROVINCE</lable>
+  <input type="text">
+</p>
+<p>
+<label>DISTRICT</label>
+<input type="text">
+</p>
+<p>
+<label>SECTOR</label>
+<input type="text">
+</p>
+<p>
+<label>Cell</label>
+<label>Village</label>
+<input type="text">
+</p>
+-Responsible(if no parents)phone numberNames
+<input type="text"> <input type="text">
+<h2><u>SCHOOL BACKGROUND</u></h2>
+-Previous school-name
+<input type="text">
+<p>
+-Phone number
+<input type="text">
+</p>
+-Your annual marks
+<input type="text">
+<p>
+-Location:Province
+<input type="text">
+ District SectorCell 
+<input type="text">
+</p>
+-Previous school deliberation:<br>
+
+<script>
+ let ds= x+" "+ xS
+</script> 
+-Promoted<input type="checkbox"><br><br>
+  -Repeated               <input type="checkbox"><br><br>
+   -Expelled                 <input type="checkbox">
+
+ </body>
+</html>
